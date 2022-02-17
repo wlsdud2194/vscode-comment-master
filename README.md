@@ -10,4 +10,24 @@ This extension contains code snippets for JavaScript/TypeScript comment.
 - TypeScript (.ts)
 - JavaScript React (.jsx)
 - TypeScript React (.tsx)
-→
+
+## Snippet Shortcut key
+
+- cdiv →
+```
+/* -----------------------------------------------------------
+  <focus>
+----------------------------------------------------------- */
+```
+
+- cbox →
+```
+//----
+// <focus>
+//----
+```
+
+- chr →
+```
+// <focus> ---------------------------------------
+```
