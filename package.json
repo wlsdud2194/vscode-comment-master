@@ -1,5 +1,5 @@
 {
-  "name": "CommentMasterSnippets",
+  "name": "vscode-comment-master",
   "description": "Code snippets for js/ts developers who want to write comments well.",
   "version": "0.0.1",
   "displayName": "Comment Master Snippets",

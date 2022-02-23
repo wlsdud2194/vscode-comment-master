@@ -7,5 +7,21 @@
       "----------------------------------------------------------- */"
     ],
     "description": "Comment Division"
+  },
+  "commentBox": {
+    "prefix": "cbox",
+    "body": [
+      "//----",
+      "// $1",
+      "//----"
+    ],
+    "description": "Comment Box"
+  },
+  "commentHr": {
+    "prefix": "chr",
+    "body": [
+      "// $1 ---------------------------------------"
+    ],
+    "description": "A Thematic Break Comment"
   }
 }
