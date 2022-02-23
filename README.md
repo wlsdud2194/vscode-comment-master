@@ -14,6 +14,7 @@ This extension contains code snippets for JavaScript/TypeScript comment.
 ## Snippet Shortcut key
 
 - cdiv →
+
 ```
 /* -----------------------------------------------------------
   <focus>
@@ -21,6 +22,7 @@ This extension contains code snippets for JavaScript/TypeScript comment.
 ```
 
 - cbox →
+
 ```
 //----
 // <focus>
@@ -28,6 +30,7 @@ This extension contains code snippets for JavaScript/TypeScript comment.
 ```
 
 - chr →
+
 ```
 // <focus> ---------------------------------------
 ```
